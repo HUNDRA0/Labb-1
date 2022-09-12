@@ -13,9 +13,10 @@ while (isRunning)
 
 void DisplayMenu()
 {
+    int age = 26;
     string Name = "Jacob Ercan";
     Console.WriteLine("======MAT-MATS LOGISTIK======\n1. Registrera ny leverans\n2. Beställ mer\n3. Ny inventering\n4. Stäng");
-    Console.Write(">" + Name);
+    Console.Write(">" + Name + age);
 
 }
 

@@ -1,0 +1,15 @@
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\bin\Debug\net6.0\Labb1 unchanged Jacob Ercan.exe
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\bin\Debug\net6.0\Labb1 unchanged Jacob Ercan.deps.json
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\bin\Debug\net6.0\Labb1 unchanged Jacob Ercan.runtimeconfig.json
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\bin\Debug\net6.0\Labb1 unchanged Jacob Ercan.dll
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\bin\Debug\net6.0\Labb1 unchanged Jacob Ercan.pdb
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\obj\Debug\net6.0\Labb1 unchanged Jacob Ercan.csproj.AssemblyReference.cache
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\obj\Debug\net6.0\Labb1 unchanged Jacob Ercan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\obj\Debug\net6.0\Labb1 unchanged Jacob Ercan.AssemblyInfoInputs.cache
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\obj\Debug\net6.0\Labb1 unchanged Jacob Ercan.AssemblyInfo.cs
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\obj\Debug\net6.0\Labb1 unchanged Jacob Ercan.csproj.CoreCompileInputs.cache
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\obj\Debug\net6.0\Labb1 unchanged Jacob Ercan.dll
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\obj\Debug\net6.0\refint\Labb1 unchanged Jacob Ercan.dll
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\obj\Debug\net6.0\Labb1 unchanged Jacob Ercan.pdb
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\obj\Debug\net6.0\Labb1 unchanged Jacob Ercan.genruntimeconfig.cache
+C:\Labb Jacob Ercan\Labb1 unchanged Jacob Ercan\Labb1 unchanged Jacob Ercan\obj\Debug\net6.0\ref\Labb1 unchanged Jacob Ercan.dll
